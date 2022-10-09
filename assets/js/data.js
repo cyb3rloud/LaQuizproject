@@ -1,4 +1,4 @@
-/*export const quizes = [
+export const quizes = [
   {
     question: "HTML can be used to build a website on its own",
     answer: "true",
