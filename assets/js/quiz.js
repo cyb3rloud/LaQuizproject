@@ -1,5 +1,5 @@
 // Get the data
-/*import { quizes } from "./data.js";
+import { quizes } from "./data.js";
 
 // Get quiz controls
 const prevBtn = document.querySelector(".prev");
