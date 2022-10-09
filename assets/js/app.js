@@ -1,6 +1,6 @@
 // Get elements
 
-/*const homeButton=document.querySelector(".play");
+const homeButton=document.querySelector(".play");
 
 
 homeButton.addEventListener("click",()=>{
