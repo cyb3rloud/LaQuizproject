@@ -1,4 +1,4 @@
-/*const resultContainer = document.querySelector("#score");
+const resultContainer = document.querySelector("#score");
 
 const remarks = document.querySelector("#remarks");
 
